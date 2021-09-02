@@ -5,7 +5,7 @@ I'm a  Kubernetes Operator Engineer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Tencent.
+- 🔭 I’m currently working on T.
 - 🌱 I’m currently learning Kubernetes, CICD, Golang...
 - 📫 How to reach me: 
   - [掘金社区](https://juejin.cn/user/694547081075149)
